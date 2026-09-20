@@ -3,6 +3,8 @@
 
 An interactive dashboard that simulates how rainfall accumulates and moves across a city, classifies every region as **Safe**, **Warning** or **Critical**, and tells decision-makers **which regions flood first, how long they have, and how many people are affected**.
 
+**AI component:** The flood model is a physics-based simulation with rule-based analytics and uses no machine-learning model at runtime. AI assistance (Claude by Anthropic and ChatGPT by OpenAI) was used during development. 
+
 ---
 
 ## Overview
