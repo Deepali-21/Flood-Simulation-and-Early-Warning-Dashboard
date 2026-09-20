@@ -206,10 +206,10 @@ This is a **simplified conceptual model**, not a hydrodynamic forecast. Results 
 
 | Name | Role | Files |
 |---|---|---|
-| [Deepali R Nayak] | Simulation engine | `simulation.py`, `tests/test_simulation.py` |
-| [Dhanushree H S] | Terrain, data and scenarios | `terrain.py`, `scenarios.py` |
-| [Daneshwari Shrishail Dolli] | Analytics and early warning | `analysis.py` |
-| [Gayathri G B] | Dashboard, integration and demo | `app.py`, `README.md` |
+| Deepali R Nayak | Simulation engine | `simulation.py`, `tests/test_simulation.py` |
+| Dhanushree H S | Terrain, data and scenarios | `terrain.py`, `scenarios.py` |
+| Daneshwari Shrishail Dolli | Analytics and early warning | `analysis.py` |
+| Gayathri G B | Dashboard, integration and demo | `app.py`, `README.md` |
 
 ## Contributing
 
