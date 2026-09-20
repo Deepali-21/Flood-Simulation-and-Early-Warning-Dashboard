@@ -92,9 +92,12 @@ On the development demo city, critical regions rise from 0 (normal rain) to 24 (
 ├── scenarios.py                  # Scenario presets and rainfall profiles
 ├── dev_run.py                    # Stand-in city and scenarios for development
 ├── requirements.txt
+├── LICENSE
 ├── tests/
-│   ├── test_simulation.py        # Engine physics checks
-│   └── test_analysis_integration.py   # Analysis running on real engine output
+│   ├── test_simulation.py             # Engine physics checks
+│   ├── test_analysis_integration.py   # Analysis running on real engine output
+│   ├── test_terrain.py                # City generator checks
+│   └── test_scenarios_integration.py  # Scenarios running through the engine
 └── README.md
 ```
 
@@ -218,7 +221,7 @@ This is a **simplified conceptual model**, not a hydrodynamic forecast. Results 
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) [YEAR] [NAMES].
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Deepali R Nayak, Daneshwari Shrishail Dolli, Dhanushree H S, Gayathri G B.
 
 ## Acknowledgements
 
