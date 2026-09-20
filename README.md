@@ -103,8 +103,8 @@ On the development demo city, critical regions rise from 0 (normal rain) to 24 (
 Requires Python 3.10 or newer.
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone <https://github.com/Deepali-21/Flood-Simulation-and-Early-Warning-Dashboard.git>
+cd <Flood-Simulation-and-Early-Warning-Dashboard>
 
 python -m venv venv
 # Windows (PowerShell):  .\venv\Scripts\Activate.ps1
