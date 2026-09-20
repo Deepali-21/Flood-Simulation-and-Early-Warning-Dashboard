@@ -3,9 +3,6 @@
 
 An interactive dashboard that simulates how rainfall accumulates and moves across a city, classifies every region as **Safe**, **Warning** or **Critical**, and tells decision-makers **which regions flood first, how long they have, and how many people are affected**.
 
-
-**Live demo:** [ADD LINK] | **Demo video:** [ADD LINK]
-
 ---
 
 ## Overview
